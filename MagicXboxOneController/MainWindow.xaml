@@ -7,22 +7,7 @@
             <ColumnDefinition Width="68*"/>
             <ColumnDefinition Width="449*"/>
         </Grid.ColumnDefinitions>
-        <TextBlock HorizontalAlignment="Left" Margin="49,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="211" Width="426" Grid.ColumnSpan="2">
-            <Run Text="1. Connect a Xbox One or Xbox 360 controller."/><LineBreak/>
-            <Run Text="2. Keep this open, you can minimize it."/><LineBreak/>
-            <Run Text="3. Have fun:"/><LineBreak/>
-            <Run Text="Moving LS as moving pointer."/><LineBreak/>
-            <Run Text="Moving RS as scrolling."/><LineBreak/>
-            <Run Text="A or RT for left button."/><LineBreak/>
-            <Run Text="B or LT for right button."/><LineBreak/>
-            <Run Text="Y or RS for middle button."/><LineBreak/>
-            <LineBreak/>
-            <Run Text="I just wanted to play galgames, now I'm too busy playing to code any more."/><LineBreak/>
-            <Run Text="                                                                                                 -"/>
-            <Hyperlink NavigateUri="http://windy.moe" RequestNavigate="Hyperlink_RequestNavigate">Windy Darian</Hyperlink><LineBreak/>
-            <Run Text="                                                                                                      "/>
-            <Run Text="Dec 1, 2014"/><LineBreak/>
-        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="49,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="211" Width="426" Grid.ColumnSpan="2"><Run Text="1. Connect a Xbox One or Xbox 360 controller."/><LineBreak/><Run Text="2. Keep this open, you can minimize it."/><LineBreak/><Run Text="3. Have fun:"/><LineBreak/><Run Text="Moving LS as moving pointer."/><LineBreak/><Run Text="Moving RS as scrolling."/><LineBreak/><Run Text="A or RT for left button."/><LineBreak/><Run Text="B or LT for right button."/><LineBreak/><Run Text="Y or RS for middle button."/><LineBreak/><Run Text="Note: You can't use this on applications that requires administrator previledge unless you run this as an administrator"/><Run Text=" as well"/><Run Text="."/><LineBreak/><Run Text="I just wanted to play galgames, now I'm too busy playing to code any more."/><LineBreak/><Run Text="                                                                                                 -"/><Run Text=" "/><Hyperlink NavigateUri="http://windy.moe/"><Run Text="Windy Darian"/></Hyperlink><LineBreak/><Run Text="                                                                                                      "/><Run Text=" "/><Run Text="Dec 1, 2014"/><LineBreak/></TextBlock>
 
     </Grid>
 </Window>

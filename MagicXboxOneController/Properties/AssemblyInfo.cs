@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MagicXboxOneController")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("OtakuController")]
+[assembly: AssemblyDescription("A program mapping xbox one controller to mouse operations")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MagicXboxOneController")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCompany("Seven Ocean Game Arts, Beihang U.")]
+[assembly: AssemblyProduct("OtakuController")]
+[assembly: AssemblyCopyright("Copyright © Windy Darian  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
