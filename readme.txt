@@ -15,3 +15,4 @@ B or LT for right button.
 Y or RS for middle button.
 Note: You can't use this on applications that requires administrator previledge unless you run this as an administrator as well.
 
+Have fun.
